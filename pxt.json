@@ -10,7 +10,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "T01DrawArrow.md"
+        "T01-DrawArrow.md"
     ],
     "testFiles": [
         "test.ts"
