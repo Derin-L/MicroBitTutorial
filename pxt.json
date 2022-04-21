@@ -9,7 +9,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "T01_DrawArrow.md"
     ],
     "testFiles": [
         "test.ts"
