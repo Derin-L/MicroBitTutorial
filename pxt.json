@@ -16,7 +16,10 @@
         "B04-DrawNumber.md",
         "B05-Counter.md",
         "P01-Fireworks.md",
-        "P02-SpinArrow.md"
+        "P02-SpinArrow.md",
+        "P03-DrawArrow.md",
+        "P04-DrawNumber.md",
+        "P05-Counter.md"
     ],
     "testFiles": [
         "test.ts"

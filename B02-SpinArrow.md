@@ -23,7 +23,16 @@ basic.forever(function () {
 
 ## Step 3
 
-계속해서 오른쪽 화살표(동쪽), 아래쪽 화살표(남쪽)를 차례로 추가합니다.
+계속해서 ``||basic:화살표 출력 동쪽||``, ``||basic:화살표 출력 남쪽||``를 차례로 추가합니다.
+
+```blocks
+basic.forever(function () {
+    basic.showArrow(ArrowNames.West)
+    basic.showArrow(ArrowNames.North)
+    basic.showArrow(ArrowNames.East)
+    basic.showArrow(ArrowNames.South)
+})
+```
 
 ## Step 4
 
@@ -31,6 +40,6 @@ basic.forever(function () {
 
 ## Step 5
 
-🗨실습
+🗨 실습
 
 대각선 화살표를 추가하여 화살표가 조금 더 자연스럽게 돌아가도록 해봅시다.

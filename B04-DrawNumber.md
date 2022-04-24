@@ -34,4 +34,6 @@ basic.showNumber(number)
 
 ## Step 5
 
+🗨 실습
+
 숫자가 3, 2, 1을 차례대로 화면에 표시하도록 해보세요.

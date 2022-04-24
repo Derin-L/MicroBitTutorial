@@ -33,4 +33,6 @@ input.onButtonPressed(Button.A, function() {
 
 ## Step 6
 
+🗨 실습
+
 A버튼과 B버튼을 동시에 누를 경우, 화살표가 위쪽을 가리키게 만들어보세요.
