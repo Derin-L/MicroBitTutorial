@@ -12,7 +12,11 @@
         "README.md",
         "B01-Fireworks.md",
         "B02-SpinArrow.md",
-        "B03-DrawArrow.md"
+        "B03-DrawArrow.md",
+        "B04-DrawNumber.md",
+        "B05-Counter.md",
+        "P01-Fireworks.md",
+        "P02-SpinArrow.md"
     ],
     "testFiles": [
         "test.ts"
