@@ -23,7 +23,9 @@
         "P04-DrawNumber.md",
         "P05-Counter.md",
         "P06-QuickPush.md",
-        "P07-DirectionPush.md"
+        "P07-DirectionPush.md",
+        "B08-TimerStop.md",
+        "P08-TimerStop.md"
     ],
     "testFiles": [
         "test.ts"
