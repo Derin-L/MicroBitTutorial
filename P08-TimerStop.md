@@ -4,7 +4,7 @@
 
 화면의 게이지가 최대치에 도달하는 순간 버튼을 누르는 게임을 만들어 봅시다.
 
-![Timer Stop](/img/timerStop1.gif)
+![Timer Stop](/img/TimerStop1.gif)
 
 ## Step 2
 게임을 시작하자마자 관련된 수치를 조정해주세요. ``||game:라이프를 1으로 설정||``, ``||game:점수를 0으로 설정||``
@@ -123,4 +123,5 @@ basic.forever(on_forever)
 🗨 실습
 
 게이지를 3단계에서 5단계로 바꾸어 게임을 만들어보세요.
-![Timer Stop](/img/timerStop2.gif)
+
+![Timer Stop](/img/TimerStop2.gif)
