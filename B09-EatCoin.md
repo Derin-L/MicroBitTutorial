@@ -4,7 +4,7 @@
 플레이어가 화면을 돌아다니며 반짝이는 코인을 모으는 게임을 만들어봅시다.
 플레이어가 벽을 넘어가면 라이프가 줄어들고 라이프가 없어지면 게임오버입니다.
 
-![Timer Stop](/img/EatCoin.gif)
+![Timer Stop](https://raw.githubusercontent.com/Derin-L/MicroBitTutorial/master/img/EatCoin.gif)
 
 ## Step 2
 게임을 시작하자마자 관련된 수치를 조정해주세요. ``||game:라이프를 3으로 설정||``, ``||game:점수를 0으로 설정||``
