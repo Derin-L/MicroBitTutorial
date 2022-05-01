@@ -25,7 +25,9 @@
         "P06-QuickPush.md",
         "P07-DirectionPush.md",
         "B08-TimerStop.md",
-        "P08-TimerStop.md"
+        "P08-TimerStop.md",
+        "B09-EatCoin.md",
+        "P09-EatCoin.md"
     ],
     "testFiles": [
         "test.ts"
