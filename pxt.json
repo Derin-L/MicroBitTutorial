@@ -27,7 +27,9 @@
         "B08-TimerStop.md",
         "P08-TimerStop.md",
         "B09-EatCoin.md",
-        "P09-EatCoin.md"
+        "P09-EatCoin.md",
+        "B10-Meteor.md",
+        "P10-Meteor.md"
     ],
     "testFiles": [
         "test.ts"
