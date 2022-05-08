@@ -29,7 +29,9 @@
         "B09-EatCoin.md",
         "P09-EatCoin.md",
         "B10-Meteor.md",
-        "P10-Meteor.md"
+        "P10-Meteor.md",
+        "B11-Jump.md",
+        "P11-Jump.md"
     ],
     "testFiles": [
         "test.ts"
